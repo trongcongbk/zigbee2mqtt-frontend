@@ -64,7 +64,7 @@ function getConfig(production) {
             path: path.resolve("./dist"),
         },
         target: "web",
-        devtool: "source-map",
+        devtool: "eval-source-map",
         optimization: {
             minimize: production,
             usedExports: true,

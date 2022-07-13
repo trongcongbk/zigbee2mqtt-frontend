@@ -27,7 +27,7 @@
         "dist/*"
     ],
     "devDependencies": {
-        "@commitlint/cli": "^16.1.0",
+        "@commitlint/cli": "^17.0.3",
         "@commitlint/config-conventional": "^16.0.0",
         "@ebay/nice-modal-react": "^1.2.1",
         "@fortawesome/fontawesome-free": "^6.0.0",
